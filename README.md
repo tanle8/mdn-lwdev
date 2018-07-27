@@ -1,62 +1,249 @@
 # mdn-lwdev
 
-## Roadmap
+## Syllabus
 
-1. Complete beginner:
+### Complete beginners start here
 
-    If you are a complete beginner to web development, we'd recommend that you start by working through our [Getting started with the Web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) module, which provides a practical introduction to web development.
+#### Getting started with the Web
 
-2. Beyond the basics
+- Getting started with the Web overview
+- Installing basic software
+- What will your website look like?
+- Dealing with files
+- HTML basics
+- CSS basics
+- JavaScript basics
+- Publishing your website
+- How the Web works
 
-    If you have a bit of knowledge already, the next step is to learn HTML and CSS in detail: start with our [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) module and move on to our [Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS) module.
+### HTML — Structuring the Web
 
-3. Moving onto scripting:
+#### Introduction to HTML
 
-    If you are comfortable with HTML and CSS already, or you are mainly interested in coding, you'll want to move onto JavaScript or server-side development. Begin with our [JavaScript first steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps) and [Server-side first steps](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps) modules.
+- Introduction to HTML overview
+- Getting started with HTML
+- What's in the head? Metadata in HTML
+- HTML text fundamentals
+- Creating hyperlinks
+- Advanced text formatting
+- Document and website structure
+- Debugging HTML
+- Assessment: Marking up a letter
+- Assessment: Structuring a page of content
 
-## Topics covered
+#### Multimedia and embedding
 
-The following list is contain all the topics that MDN learning area covers.
+- Multimedia and embedding overview
+- Images in HTML
+- Video and audio content
+- From object to iframe — other embedding technologies
+- Adding vector graphics to the Web
+- Responsive images
+- Assessment: Mozilla splash page
 
-1. [Getting started with the web](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
-    Provides a practical introduction to web development for complete beginners.
+#### HTML tables
 
-2. [HTML — Structuring the web](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-    HTML is the language that we use to structure the different parts of our content and define what their meaning or purpose is. This topic teaches HTML in detail.
+- HTML tables overview
+- HTML table basics
+- HTML Table advanced features and accessibility
+- Assessment: Structuring planet data
 
-3. [CSS — Styling the web](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-    CSS is the language that we can use to style and lay out our web content, as well as adding behavior like animation. This topic provides comprehensive coverage of CSS.
+#### HTML forms
 
-4. [JavaScript — Dynamic client-side scripting](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
-    JavaScript is the scripting language used to add dynamic functionality to web pages. This topic teaches all the essentials needed to become comfortable with writing and understanding JavaScript.
+- HTML forms overview
+- Your first HTML form
+- How to structure an HTML form
+- The native form widgets
+- Sending form data
+- Form validation
+- How to build custom form widgets
+- Sending forms through JavaScript
+- HTML forms in legacy browsers
+- Styling HTML forms
+- Advanced styling for HTML forms
+- Property compatibility table for form widgets
 
-5. [Accessibility — make the web usable by everyone](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
-    Accessibility is the practice of making web content available to as many people as possible regardless of disability, device, locale, or other differentiating factors. This topic gives you all you need to know.
+### CSS — Styling the Web
 
-6. [Tools and testing](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing)
-    This topic is a place to cover tools developers use to facilitate their work, such as cross browser testing tools.
+#### Introduction to CSS
 
-7. [Server-side website programming](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
-    Even if you are concentrating on client-side web development, it is still useful to know about how servers and server-side code features work. This topic provides a general introduction to how the server-side works, and detailed tutorials detailing how to build up a server-side app using two popular frameworks — Django (Python) and Express (node.js).
+- Introduction to CSS overview
+- How CSS works
+- CSS syntax
+- Selectors introduction
+- Simple selectors
+- Attribute selectors
+- Pseudo-classes and pseudo-elements
+- Combinators and multiple selectors
+- CSS values and units
+- Cascade and inheritance
+- The box model
+- Debugging CSS
+- Assessment: Fundamental CSS comprehension
 
-## Getting code examples
+#### Styling text
 
-The code examples you'll encounter in the Learning Area are all available on GitHub. If you want to copy them all to your computer, the easiest way is to:
+- Styling text overview
+- Fundamental text and font styling
+- Styling lists
+- Styling links
+- Web fonts
+- Assessment: Typesetting a community school homepage
 
-```shell
-    git clone https://github.com/mdn/learning-area
-```
+#### Styling boxes
 
-You can update the learning-area repository with any changes made to the master version on GitHub with the following steps:
+- Styling boxes overview
+- Box model recap
+- Backgrounds
+- Borders
+- Styling tables
+- Advanced box effects
+- Assessment: Creating fancy letterheaded paper
+- Assessment: A cool-looking box
 
-    1. In your command prompt/terminal, go inside the learning-area directory using cd. For example, if you were in the parent directory:
+#### CSS layout
 
-    ```shell
-        cd learning-area
-    ```
+- CSS layout overview
+- Introduction
+- Floats
+- Positioning
+- Practical positioning examples
+- Flexbox
+- Grids
 
-    2. Update the repository using the following command:
+### JavaScript — Dynamic client-side scripting
 
-    ```shell
-        git pull
-    ```
+#### JavaScript first steps
+
+- JavaScript first steps overview
+- What is JavaScript?
+- A first splash into JavaScript
+- What went wrong? Troubleshooting JavaScript
+- Storing the information you need — Variables
+- Basic in JavaScript — Numbers and operators
+- Handling text — Strings in JavaScript
+- Useful string methods
+- Arrays
+- Assessment: Silly story generator
+
+#### JavaScript building blocks
+
+- JavaScript building blocks overview
+- Making decisions in your code — Conditionals
+- Looping code
+- Functions — Reusable blocks of code
+- Build your own function
+- Function return values
+- Introduction to events
+- Assessment: Image gallery
+
+#### Introducing JavaScript objects
+
+- Introducing JavaScript objects overview
+- Object basics
+- Object-oriented JavaScript for beginners
+- Object prototypes
+- Inheritance in JavaScript
+- Working with JSON data
+- Object building practise
+- Assessment: Adding features to our bouncing balls demo
+
+#### Client-side web APIs
+
+- Client-side web APIs
+- Introduction to web APIs
+- Manipulating documents
+- Fetching data from the server
+- Third party APIs
+- Drawing graphics
+- Video and audio APIs
+- Client-side storage
+
+### Accessibility — Make the web usable by everyone
+
+#### Accessibility guides
+
+- Accessibility overview
+- What is accessibility?
+- HTML: A good basis for accessibility
+- CSS and JavaScript accessibility best practices
+- WAI-ARIA basics
+- Accessible multimedia
+- Mobile accessibility
+
+#### Accessibility assessment
+
+- Assessment: Accessibility troubleshooting
+
+### Tools and testing
+
+#### Cross browser testing
+
+- Cross browser testing overview
+- Introduction to cross browser testing
+- Strategies for carrying out testing
+- Handling common HTML and CSS problems
+- Handling common JavaScript problems
+- Handling common accessibility problems
+- Implementing feature detection
+- Introduction to automated testing
+- Setting up your own test automation environment
+
+### [Server-side website programming](https://developer.mozilla.org/en-US/docs/Learn/Server-side)
+
+#### First steps
+
+- First steps overview
+- Introduction to the server-side
+- Client-Server overview
+- Server-side web frameworks
+- Website security
+
+#### Django web framework (Python)
+
+- Django web framework (Python) overview
+- Introduction
+- Setting up a development environment
+- Tutorial: The Local Library website
+- Tutorial Part 2: Creating a skeleton website
+- Tutorial Part 3: Using models
+- Tutorial Part 4: Django admin site
+- Tutorial Part 5: Creating our home page
+- Tutorial Part 6: Generic list and detail views
+- Tutorial Part 7: Sessions framework
+- Tutorial Part 8: User authentication and permissions
+- Tutorial Part 9: Working with forms
+- Tutorial Part 10: Testing a Django web application
+- Tutorial Part 11: Deploying Django to production
+- Web application security
+- Assessment: DIY mini blog
+
+#### Express Web Framework (node.js/JavaScript)
+
+- Express Web Framework (Node.js/JavaScript) overview
+- Express/Node introduction
+- Setting up a Node (Express) development environment
+- Express tutorial: The Local Library website
+- Express Tutorial Part 2: Creating a skeleton website
+- Express Tutorial Part 3: Using a database (with Mongoose)
+- Express Tutorial Part 4: Routes and controllers
+- Express Tutorial Part 5: Displaying library data
+- Express Tutorial Part 6: Working with forms
+- Express Tutorial Part 7: Deploying to production
+
+### Further resources
+
+#### Advanced learning material
+
+- WebGL: Graphics processing
+
+#### Common questions
+
+- HTML questions
+- CSS questions
+- JavaScript questions
+- How the Web works
+- Tools and setup
+- Design and accessibility
+
+## How to contribute
