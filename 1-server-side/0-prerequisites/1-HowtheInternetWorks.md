@@ -1,0 +1,3 @@
+# How does the Internet work?
+
+[Original post](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
