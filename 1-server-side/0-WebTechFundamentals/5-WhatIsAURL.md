@@ -4,7 +4,7 @@
 
 This article discusses __U__niform __R__esource __L__ocators (URLs), explaining what they are and how they're structured.
 
-- Prerequisites: You need to first know how the Internet works, what a Web server is and the concepts behind links on the web.
+- Prerequisites: You need to first know [how the Internet works](), [what a Web server is]() and [the concepts behind links on the web]().
 - Objective: You will learn what a URL is and how it works on the Web.
 
 ## Summary
